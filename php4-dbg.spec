@@ -3,7 +3,7 @@
 #	http://www.phpeclipse.de/tiki-view_forum_thread.php?forumId=3&comments_parentId=3265
 #
 Summary:	dbg - PHP debbuger - extension for PHP 4
-Summary(pl.UTF-8):   dbg - debugger dla PHP - rozszerzenie PHP 4
+Summary(pl.UTF-8):	dbg - debugger dla PHP - rozszerzenie PHP 4
 Name:		php4-dbg
 Version:	2.11.32
 Release:	0.2
